@@ -6,7 +6,7 @@ use Carp;
 use FabForce::DBDesigner4::XML;
 use FabForce::DBDesigner4::SQL;
 
-our $VERSION     = '0.305';
+our $VERSION     = '0.306';
 
 sub new{
   my ($class,%args) = @_;
@@ -72,7 +72,7 @@ FabForce::DBDesigner4
 
 =head1 VERSION
 
-version 0.305
+version 0.306
 
 =head1 SYNOPSIS
 
